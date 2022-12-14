@@ -1,0 +1,46 @@
+body {background-color: cadetblue;}
+
+.header{
+    color:white;
+}
+
+.date{
+    color:white;
+}
+
+.menu{
+    color:crimson;
+    font:40px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile{
+    color:crimson;
+    font:40px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profileHead{
+    color: whitesmoke;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.about{
+    color: antiquewhite;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.about1{
+    color: antiquewhite;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
